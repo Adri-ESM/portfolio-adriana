@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+@keyframes headerGlow {
+  0% {
+    transform: translateX(-35%);
+    opacity: 0.45;
+  }
+  50% {
+    transform: translateX(35%);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateX(-35%);
+    opacity: 0.45;
+  }
+}
+
+.header-glow-line {
+  position: relative;
+  height: 1px;
+  overflow: hidden;
+}
+
+.header-glow-line::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  width: 40%;
+  margin: 0 auto;
+  filter: blur(6px);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 211, 238, 0),
+    rgba(34, 211, 238, 0.9),
+    rgba(167, 139, 250, 0.95),
+    rgba(244, 114, 182, 0.95),
+    rgba(250, 204, 21, 0.9),
+    rgba(34, 211, 238, 0)
+  );
+  animation: headerGlow 6s ease-in-out infinite;
+}
+
+@keyframes headerSlide {
+  0% {
+    transform: translateX(0);
+    opacity: 0.35;
+  }
+  50% {
+    transform: translateX(220%);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 0.35;
+  }
+}

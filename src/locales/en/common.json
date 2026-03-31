@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": "Frontend Developer",
+    "title": "Adriana Sánchez",
+    "description": "I build modern, clear, and functional interfaces that connect design, product, and user experience.",
+    "primaryButton": "View projects",
+    "secondaryButton": "Contact me"
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "I design and build digital experiences focused on clarity, functionality, and product thinking.",
+    "description": "I’m a Frontend Developer focused on building modern, well-structured interfaces designed for users. I enjoy turning ideas into clear experiences, collaborating with design and development to create real products."
+  },
+  "stack": {
+    "eyebrow": "Stack",
+    "title": "Technologies and tools I work with",
+    "description": "I mainly work on frontend, building scalable interfaces, complex forms, tables, editing flows, and user-centered experiences within real products.",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": [
+          "React",
+          "React native",
+          "Responsive UI",
+          "Vue",
+          "Ängular",
+          "TypeScript",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "SCSS"
+        ]
+      },
+      {
+        "title": "UI & Forms",
+        "items": [
+          "Ant Design",
+          "Formily",
+          "Tailwind CSS",
+          "Responsive UI",
+          "Design Systems"
+        ]
+      },
+      {
+        "title": "Data & Integration",
+        "items": [
+          "React Query",
+          "GraphQL",
+          "i18n",
+          "API Integration"
+        ]
+      },
+      {
+        "title": "Workflow & Collaboration",
+        "items": [
+          "Git",
+          "GitHub",
+          "Bitbucket",
+          "Figma",
+          "Agile"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Featured projects",
+    "description": "A selection of projects that reflect my experience building interfaces, solving UI challenges, and working on real product flows.",
+    "items": [
+      {
+        "title": "Altafid",
+        "description": "I contributed to the frontend development of a fintech platform for advisors and financial institutions, working on scalable interfaces, complex tables, forms, editing flows, and user-centered product experiences.",
+        "tags": [
+          "React",
+          "TypeScript",
+          "Ant Design",
+          "Formily",
+          "GraphQL"
+        ],
+        "image": "/projects/altafid.png",
+        "liveUrl": "https://www.altafid.com/es/"
+      },
+      {
+        "title": "E-commerce Project",
+        "description": "Personal project built to strengthen frontend architecture, reusable components, and product thinking.",
+        "tags": [
+          "React",
+          "TypeScript",
+          "UI",
+          "State Management"
+        ]
+      },
+      {
+        "title": "Portfolio",
+        "description": "Personal website designed to present my experience, projects, and technical profile in a modern and professional way.",
+        "tags": [
+          "React",
+          "Vite",
+          "Tailwind"
+        ]
+      }
+    ]
+  },
+"experience": {
+  "eyebrow": "Experience",
+  "title": "Professional journey",
+  "description": "Experiences that have strengthened my profile in frontend development, leadership, collaboration, and digital product building.",
+  "items": [
+    {
+      "role": "Frontend Developer",
+      "company": "Altafid",
+      "period": "Feb 2025 – Present",
+      "location": "Hybrid · Chile",
+      "description": "I’m part of a collaborative development team working with agile methodologies. I contribute to building and maintaining scalable web interfaces using React, Next.js, TypeScript, and SCSS. I actively participate in sprint planning, code reviews, and technical documentation, collaborating through tools such as Jira, Confluence, GitHub, and Bitbucket."
+    },
+    {
+      "role": "Team Leader & Frontend Web Developer",
+      "company": "No Country",
+      "period": "Jun 2023 – Feb 2025",
+      "location": "Remote",
+      "description": "I led teams and contributed to the frontend development of collaborative projects, supporting team organization, communication, and the delivery of functional solutions. This experience strengthened my leadership, teamwork, and technical execution in remote environments."
+    },
+    {
+      "role": "Full Stack Teaching Assistant",
+      "company": "Henry Bootcamp",
+      "period": "Jan 2023 – Jun 2023",
+      "location": "Remote",
+      "description": "I supported students throughout their learning process by assisting with exercises, pair programming, and collaborative dynamics. I also contributed to team integration, soft-skill development, and the continuous improvement of bootcamp processes."
+    },
+    {
+      "role": "Leadership & Operations Background",
+      "company": "Previous experience",
+      "period": "2000 – 2018",
+      "location": "Chile & Venezuela",
+      "description": "I have a previous background in administrative coordination, people leadership, and operational management across different environments. This experience strengthened key skills such as organization, communication, process follow-up, cross-functional collaboration, and results orientation."
+    }
+  ]
+},
+"contact": 
+{ 
+  "eyebrow": "Contact", 
+  "title": "Let’s connect", 
+  "description": "You can find me here for opportunities, collaborations, or just to say hello.", 
+  "items": [ 
+    { "title": "LinkedIn", "value": "Adriana Sánchez", "href": "https://www.linkedin.com/in/adriana-sanchez-mejias/" }, 
+    { "title": "Gmail", "value": "adrievelyn@gmail.com", "href": "mailto:adrievelyn@gmail.com" },
+    { "title": "Website", "value": "adrianasanchezm.com", "href": "https://www.adrianasanchezm.com" } 
+  ] 
+}
+}

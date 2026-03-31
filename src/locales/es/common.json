@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "role": "Frontend Developer",
+    "title": "Adriana Sánchez",
+    "description": "Desarrollo interfaces modernas, claras y funcionales que conectan diseño, producto y experiencia de usuario.",
+    "primaryButton": "Ver proyectos",
+    "secondaryButton": "Contactarme"
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "title": "Diseño y desarrollo experiencias digitales con foco en claridad, funcionalidad y producto.",
+    "description": "Soy Frontend Developer enfocada en construir interfaces modernas, bien estructuradas y pensadas para el usuario. Disfruto transformar ideas en experiencias claras, colaborando con diseño y desarrollo para crear productos reales."
+  },
+  "stack": {
+    "eyebrow": "Stack",
+    "title": "Tecnologías y herramientas con las que trabajo",
+    "description": "Trabajo principalmente en frontend, construyendo interfaces escalables, formularios complejos, tablas, flujos de edición y experiencias centradas en el usuario dentro de productos reales.",
+    "groups": [
+      {
+        "title": "Frontend",
+        "items": [
+          "React",
+          "React native",
+          "Responsive UI",
+          "Vue",
+          "Ängular",
+          "TypeScript",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "SCSS"
+        ]
+      },
+      {
+        "title": "UI & Forms",
+        "items": [
+          "Ant Design",
+          "Formily",
+          "Tailwind CSS",
+          "Responsive UI",
+          "Design Systems"
+        ]
+      },
+      {
+        "title": "Data & Integration",
+        "items": [
+          "React Query",
+          "GraphQL",
+          "i18n",
+          "API Integration"
+        ]
+      },
+      {
+        "title": "Workflow & Collaboration",
+        "items": [
+          "Git",
+          "GitHub",
+          "Bitbucket",
+          "Figma",
+          "Agile"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Proyectos",
+    "title": "Proyectos destacados",
+    "description": "Una selección de proyectos que reflejan mi experiencia construyendo interfaces, resolviendo desafíos de UI y trabajando en flujos reales de producto.",
+    "items": [
+      {
+        "title": "Altafid",
+        "description": "Contribuí al desarrollo frontend de una plataforma fintech orientada a asesores e instituciones financieras, trabajando en interfaces escalables, tablas complejas, formularios, flujos de edición y experiencias centradas en el usuario.",
+        "tags": [
+          "React",
+          "TypeScript",
+          "Ant Design",
+          "Formily",
+          "GraphQL"
+        ],
+        "image": "/projects/altafid.png",
+        "liveUrl": "https://www.altafid.com/es/"
+      },
+      {
+        "title": "E-commerce Project",
+        "description": "Proyecto personal creado para fortalecer arquitectura frontend, componentes reutilizables y visión de producto.",
+        "tags": [
+          "React",
+          "TypeScript",
+          "UI",
+          "State Management"
+        ]
+      },
+      {
+        "title": "Portfolio",
+        "description": "Sitio personal diseñado para presentar mi experiencia, proyectos y perfil técnico de forma moderna y profesional.",
+        "tags": [
+          "React",
+          "Vite",
+          "Tailwind"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experiencia",
+    "title": "Trayectoria profesional",
+    "description": "Experiencias que han fortalecido mi perfil en frontend, liderazgo, colaboración y construcción de productos digitales.",
+    "items": [
+      {
+        "role": "Frontend Developer",
+        "company": "Altafid",
+        "period": "Feb 2025 – Actualidad",
+        "location": "Híbrido · Chile",
+        "description": "Formo parte de un equipo de desarrollo colaborativo trabajando con metodologías ágiles. Contribuyo a la construcción y mantenimiento de interfaces web escalables usando React, Next.js, TypeScript y SCSS. Participo activamente en sprint planning, code reviews y documentación técnica, colaborando con herramientas como Jira, Confluence, GitHub y Bitbucket."
+      },
+      {
+        "role": "Team Leader & Frontend Web Developer",
+        "company": "No Country",
+        "period": "Jun 2023 – Feb 2025",
+        "location": "Remoto",
+        "description": "Lideré equipos de trabajo y contribuí al desarrollo frontend de proyectos colaborativos, acompañando la organización del equipo, la comunicación entre integrantes y la entrega de soluciones funcionales. Esta experiencia fortaleció mi liderazgo, trabajo en equipo y ejecución técnica en entornos remotos."
+      },
+      {
+        "role": "Full Stack Teaching Assistant",
+        "company": "Henry Bootcamp",
+        "period": "Ene 2023 – Jun 2023",
+        "location": "Remoto",
+        "description": "Acompañé a estudiantes en su proceso de aprendizaje, apoyando ejercicios, pair programming y dinámicas colaborativas. También contribuí a la integración de equipos, el desarrollo de habilidades blandas y la mejora continua de los procesos del bootcamp."
+      },
+      {
+        "role": "Leadership & Operations Background",
+        "company": "Experiencia previa",
+        "period": "2000 – 2018",
+        "location": "Chile & Venezuela",
+        "description": "Cuento con una trayectoria previa en coordinación administrativa, liderazgo de personas y gestión operativa en distintos entornos. Esta experiencia fortaleció habilidades clave como organización, comunicación, seguimiento de procesos, trabajo interdisciplinario y orientación a resultados."
+      }
+    ]
+  },
+  "contact": 
+  { 
+    "eyebrow": "Contacto", 
+    "title": "Conectemos", 
+    "description": "Puedes encontrarme aquí para oportunidades, colaboraciones o simplemente para saludar.", 
+    "items": [ 
+      { "title": "LinkedIn", "value": "Adriana Sánchez", "href": "https://www.linkedin.com/in/adriana-sanchez-mejias/" }, 
+      { "title": "Gmail", "value": "adrievelyn@gmail.com", "href": "mailto:adrievelyn@gmail.com" }, 
+      { "title": "Sitio web", "value": "adrianasanchezm.com", "href": "https://www.adrianasanchezm.com" } 
+    ] 
+  }
+}

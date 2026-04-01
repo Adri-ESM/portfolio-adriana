@@ -143,15 +143,29 @@
     }
   ]
 },
-"contact": 
-{ 
-  "eyebrow": "Contact", 
-  "title": "Let’s connect", 
-  "description": "You can find me here for opportunities, collaborations, or just to say hello.", 
-  "items": [ 
-    { "title": "LinkedIn", "value": "Adriana Sánchez", "href": "https://www.linkedin.com/in/adriana-sanchez-mejias/" }, 
-    { "title": "Gmail", "value": "adrievelyn@gmail.com", "href": "mailto:adrievelyn@gmail.com" },
-    { "title": "Website", "value": "adrianasanchezm.com", "href": "https://www.adrianasanchezm.com" } 
-  ] 
+"contact": {
+  "eyebrow": "Contact",
+  "title": "Let’s connect",
+  "description": "You can find me here for opportunities, collaborations, or just to say hello.",
+  "items": [
+    {
+      "key": "linkedin",
+      "title": "LinkedIn",
+      "value": "Adriana Sánchez",
+      "href": "https://www.linkedin.com/in/adriana-sanchez-mejias/"
+    },
+    {
+      "key": "gmail",
+      "title": "Gmail",
+      "value": "adrievelyn@gmail.com",
+      "href": "mailto:adrievelyn@gmail.com"
+    },
+    {
+      "key": "website",
+      "title": "Website",
+      "value": "adrianasanchezm.com",
+      "href": "https://www.adrianasanchezm.com"
+    }
+  ]
 }
 }
